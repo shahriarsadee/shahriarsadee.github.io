@@ -185,20 +185,12 @@ label,
   max-width: 900px;
   margin: 18px 0 28px;
 }
-.intro h3 {
-  font-size: clamp(2.5rem, 4.5vw, 4.1rem);
-  letter-spacing: -0.045em;
-  max-width: 800px;
-  margin: 18px 0 28px;
-}
+
 .intro h2 em {
   color: var(--green);
   font-style: normal;
 }
-.intro h3 em {
-  color: var(--green);
-  font-style: normal;
-}
+
 .intro p {
   max-width: 760px;
   color: #53605b;
